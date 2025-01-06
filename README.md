@@ -11,6 +11,7 @@ Welcome to the **Perfect Fried Eggs** project! This simple and delicious recipe 
 
 ## 🛸 Overview
 This project is a solution for a lab project on FreeCodeCamp. It provides a straightforward guide to making perfect fried eggs, including an image of the ingredients and clear, step-by-step instructions.
+This is done using only HTML.
 
 ## 📝 User Stories
 To complete this lab project, the following user stories were implemented and ensured to meet all specifications:

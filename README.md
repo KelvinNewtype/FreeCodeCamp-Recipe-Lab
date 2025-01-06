@@ -43,4 +43,17 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Thank you for checking out this project! We hope you enjoy making and eating your perfect fried eggs. 🍳✨
 
+
+IMAGE OPTIMIZATION FOR LATER
+1. Implement "preconnect"
+2. Use DNS Prefetching
+3. Use Modern Image Formats (e.g., WebP)
+4. Enable Lazy Loading
+5. Use a Content Delivery Network (CDN)
+6. Optimize Images (Compress Without Losing Quality)
+7. Use Responsive Images
+8. Set Proper Cache Control Headers
+
+This list should help you get started on making your website's images load faster. If you need more details on any of these tasks, feel free to ask!
+
 **Newtype Out**

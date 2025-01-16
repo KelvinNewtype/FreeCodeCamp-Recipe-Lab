@@ -7,11 +7,11 @@ Welcome to the **Perfect Fried Eggs** project! This simple and delicious recipe 
 - [User Stories](#user-stories)
 - [Getting Started](#getting-started)
 - [Implementation](#implementation)
+- [CSS Styling](#css-styling)
 - [License](#license)
 
 ## 🛸 Overview
-This project is a solution for a lab project on FreeCodeCamp. It provides a straightforward guide to making perfect fried eggs, including an image of the ingredients and clear, step-by-step instructions.
-This is done using only HTML.
+This project is a solution for a lab project on FreeCodeCamp. It provides a straightforward guide to making perfect fried eggs, including an image of the ingredients and clear, step-by-step instructions. The original FreeCodeCamp lab test focuses on HTML, and the CSS added here is for personal reference to enhance the appearance.
 
 ## 📝 User Stories
 To complete this lab project, the following user stories were implemented and ensured to meet all specifications:
@@ -37,13 +37,22 @@ To fulfill the user stories and ensure all tests were met, the following steps w
 
 By following these steps, all user stories were met, and the project passed all specified tests, ensuring a successful solution.
 
+## 💅 CSS Styling
+
+While the original FreeCodeCamp lab test doesn't require CSS, it has been added here as a personal reference to enhance the appearance and usability of the project. Key styling features include:
+
+- **Responsive Design**: Ensures the layout adjusts smoothly across different devices and screen sizes.
+- **Modern Typography**: Utilizes web-safe fonts to enhance readability.
+- **Color Scheme**: Applies a consistent color palette for a cohesive look and feel.
+- **Hover Effects**: Adds subtle hover effects to navigation links and buttons for better interactivity.
+- **Flexbox**: Utilizes Flexbox for aligning and distributing space among items in the layout.
+
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
 Thank you for checking out this project! We hope you enjoy making and eating your perfect fried eggs. 🍳✨
-
 
 IMAGE OPTIMIZATION FOR LATER
 1. Implement "preconnect"

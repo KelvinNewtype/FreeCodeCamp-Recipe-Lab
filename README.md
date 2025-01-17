@@ -49,6 +49,7 @@ While the original FreeCodeCamp lab test doesn't require CSS, it has been added 
 - **Flexbox**: Utilizes Flexbox for aligning and distributing space among items in the layout.
 
 ## 📋 To-Do List for Image Optimization
+Implement before the 21st
 
 1. Implement "preconnect"
 2. Use DNS Prefetching

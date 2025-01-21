@@ -59,6 +59,7 @@ Implement before the 21st
 6. Optimize Images (Compress Without Losing Quality)
 7. Use Responsive Images
 8. Set Proper Cache Control Headers
+9. Update CSS for more cooking themed appearance
 
 ## 📜 License
 No license for this project.

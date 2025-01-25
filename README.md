@@ -48,6 +48,26 @@ While the original FreeCodeCamp lab test doesn't require CSS, it has been added 
 - **Hover Effects**: Adds subtle hover effects to navigation links and buttons for better interactivity.
 - **Flexbox**: Utilizes Flexbox for aligning and distributing space among items in the layout.
 
+## 🚀 Implementing Preconnect
+
+To improve loading performance, I added the `<link rel="preconnect">` tag in the `<head>` section:
+
+```html
+<head>
+  <!-- Other head content -->
+  <link rel="preconnect" href="https://cdn.freecodecamp.org">
+  <link rel="preconnect" href="[Your-URL-Here]">
+  <!-- Other head content -->
+</head>
+```
+
+1. Preconnect to the CDN domain.
+2. Preconnect to your website's domain.
+
+This allows the browser to start the connection process ahead of time, reducing latency when resources are requested.
+
+NOTE TO SELF: Replace `[Your-URL-Here]` with your actual website URL.
+
 ## 🔍 SEO Implementation
 
 ### JSON-LD Structured Data

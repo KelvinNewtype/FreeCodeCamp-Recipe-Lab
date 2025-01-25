@@ -48,6 +48,101 @@ While the original FreeCodeCamp lab test doesn't require CSS, it has been added 
 - **Hover Effects**: Adds subtle hover effects to navigation links and buttons for better interactivity.
 - **Flexbox**: Utilizes Flexbox for aligning and distributing space among items in the layout.
 
+## 🔍 SEO Implementation
+
+### JSON-LD Structured Data
+The project includes structured data markup using JSON-LD to enhance search engine visibility and potentially display rich snippets in search results.
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Perfect Fried Eggs",
+  // ... [rest of the JSON structure]
+}
+</script>
+```
+
+### Important Notes About JSON-LD:
+1. **Location**: Place directly in HTML `<head>` section
+2. **No External Files**: Don't create separate .js files for this
+3. **No Script Source**: Don't add src attribute to the script tag
+4. **Type Attribute**: Must include `type="application/ld+json"`
+
+### Validating JSON-LD:
+
+#### Online Tools:
+1. **Google's Tools**
+   - [Rich Results Test](https://search.google.com/test/rich-results)
+   - [Schema Markup Validator](https://validator.schema.org/)
+2. **JSON Validators**
+   - [JSON Editor Online](https://jsoneditoronline.org/)
+   - [JSONLint](https://jsonlint.com/)
+
+#### VS Code Validation:
+1. Create temporary .json file
+2. Paste JSON content (without script tags)
+3. Check for red squiggly lines
+4. Hover over errors for explanations
+
+### Common JSON Validation Rules:
+```javascript
+// ✅ Valid Format Examples:
+{
+  "propertyName": "String value",    // String values in quotes
+  "numberProperty": 42,              // Numbers without quotes
+  "booleanProperty": true,           // Booleans without quotes
+  "arrayProperty": [                 // Arrays use square brackets
+    "item1",
+    "item2"
+  ],
+  "objectProperty": {                // Objects use curly braces
+    "nestedProperty": "value"
+  }
+}
+```
+
+### Optional Schema Enhancements:
+```javascript
+{
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "International",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "249"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "name": "How to Make Perfect Fried Eggs",
+    "description": "Step-by-step video guide",
+    "thumbnailUrl": "[Video-Thumbnail-URL]",
+    "contentUrl": "[Video-URL]",
+    "uploadDate": "2025-01-25"
+  },
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "90 calories per egg",
+    "fatContent": "7 g",
+    "proteinContent": "6 g",
+    "carbohydrateContent": "0.6 g",
+    "servingSize": "1 egg"
+  }
+}
+```
+
+### Implementation Checklist:
+- [ ] Replace all placeholder URLs
+- [ ] Verify dates and times
+- [ ] Check author information
+- [ ] Validate JSON structure
+- [ ] Test in Google's Rich Results Test
+- [ ] Ensure all required fields are filled
+- [ ] Update nutrition information if needed
+- [ ] Add optional enhancements as needed
+
+
 ## 📋 To-Do List for Image Optimization
 Implement before the 21st
 

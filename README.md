@@ -1,6 +1,6 @@
 Push to vercel 
 Add some illustrations 
-
+Use Illustrator files
 # 🍳 Perfect Fried Eggs
 
 Welcome to the **Perfect Fried Eggs** project! This simple and delicious recipe will teach you how to make fried eggs with crispy edges and runny yolks, ready in minutes with just a few ingredients. This is also a project for the recipe assignment on the FreeCodeCamp Full-Stack Development Certificate. The CSS portion is added at a later date. 

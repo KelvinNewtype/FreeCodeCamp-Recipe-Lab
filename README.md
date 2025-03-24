@@ -1,4 +1,4 @@
-Push to vercel 
+Deploy 
 Add some illustrations 
 Use Illustrator files
 # 🍳 Perfect Fried Eggs

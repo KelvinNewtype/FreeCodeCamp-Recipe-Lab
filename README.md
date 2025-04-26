@@ -1,4 +1,4 @@
-Illustrator and Web Dev Implementation tutorial
+Illustrator and Web Dev Implement tutorial
 Use Illustrator files
 Quick Aggregation File
 # 🍳 Perfect Fried Eggs

@@ -1,4 +1,4 @@
-Add some illustrations in site 
+
 
 # 🍳 Perfect Fried Eggs
 

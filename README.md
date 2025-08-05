@@ -17,7 +17,7 @@ This project is a solution for a lab project on FreeCodeCamp. It provides a stra
 ## 📝 User Stories
 To complete this lab project, the following user stories were implemented and ensured to meet all specifications:
 - **h1 Element:** An "h1" element with the topic of the page is included at the top.
-- **Introduction Paragraph:** A paragraph introducing the topic is placed below the h1 element.
+- **Introduction Paragraph:** An intro to the topic is placed below the h1 element.
 - **Image:** An image of the ingredients is included with appropriate alt text.
 - **Ingredients List:** An unordered list of ingredients is provided.
 - **Instructions:** An ordered list of step-by-step instructions is included.

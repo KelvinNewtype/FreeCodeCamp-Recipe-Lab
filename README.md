@@ -1,6 +1,6 @@
 🍳 Perfect Fried Eggs
 
-Welcome to the **Perfect Fried Eggs** project! This simple and delicious recipe will teach you how to make fried eggs with crispy edges and runny yolks, ready in minutes with just a few ingredients. This is also a project for the recipe assignment on the FreeCodeCamp FullStack Development Certificate.
+Welcome to the Perfect Fried Eggs project! This simple and delicious recipe will teach you how to make fried eggs with crispy edges and runny yolks, ready in minutes with just a few ingredients. This is also a project for the recipe assignment on the FreeCodeCamp FullStack Development Certificate.
 
 ## 📋 Table of Contents
 - [Overview](#overview)

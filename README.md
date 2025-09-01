@@ -140,8 +140,6 @@ This project has no license.
 
 ---
 
-🍳✨ Thanks for checking out Perfect Fried Eggs. Enjoy coding and breakfast!
-
 Newtype Out
 
 

@@ -19,7 +19,7 @@ This project demonstrates a simple and tasty recipe for fried eggs with crispy e
 ---
 
 ## 🛸 Overview  
-This project is a **FreeCodeCamp lab solution** that provides a clear, step-by-step guide to making fried eggs.  
+This project is a **FreeCodeCamp lab solution** that provides a clear, step-by-step guide to making fried eggs using a website with instructions created with HTML and JavaScript.  
 It uses **HTML** for structure and **optional CSS** for styling. Features include:  
 
 - Ingredient image with alt text  

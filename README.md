@@ -1,4 +1,4 @@
-# 🍳 Perfect Fried Eggs  
+# Perfect Fried Eggs  
 
 Welcome to **Perfect Fried Eggs**!  
 This project demonstrates a simple and tasty recipe for fried eggs with crispy edges and soft, runny yolks. It was built as part of the **FreeCodeCamp Full Stack Development Certificate** recipe assignment.  

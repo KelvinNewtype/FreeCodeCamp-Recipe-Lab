@@ -5,7 +5,7 @@ This project demonstrates a simple and tasty recipe for fried eggs with crispy e
 
 ---
 
-## 📋 Table of Contents  
+## Table of Contents  
 - [Overview](#-overview)  
 - [User Stories](#-user-stories)  
 - [Getting Started](#-getting-started)  
@@ -18,7 +18,7 @@ This project demonstrates a simple and tasty recipe for fried eggs with crispy e
 
 ---
 
-## 🛸 Overview  
+## Overview  
 This project is a **FreeCodeCamp lab solution** that provides a clear, step-by-step guide to making fried eggs using a website with instructions created with HTML and JavaScript.  
 It uses **HTML** for structure and **optional CSS** for styling. Features include:  
 
@@ -28,7 +28,7 @@ It uses **HTML** for structure and **optional CSS** for styling. Features includ
 
 ---
 
-## 📝 User Stories  
+## User Stories  
 The following requirements were implemented:  
 
 - **h1 Element**: Main title at the top of the page  

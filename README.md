@@ -39,7 +39,7 @@ The following requirements were implemented:
 
 ---
 
-## 🚀 Getting Started  
+## Getting Started  
 
 1. Copy the HTML code into a file (`index.html`)  
 2. Open the file in your browser  
@@ -49,7 +49,7 @@ The following requirements were implemented:
 
 ---
 
-## 💻 Implementation  
+## Implementation  
 
 Steps taken to meet user stories:  
 
@@ -61,7 +61,7 @@ Steps taken to meet user stories:
 
 ---
 
-## 💅 CSS Styling (Optional)  
+## CSS Styling (Optional)  
 
 CSS was added to improve usability and appearance. Key features:  
 
@@ -111,7 +111,7 @@ Schema Markup Validator
 
 ---
 
-🖼️ Image Optimization To-Do
+Image Optimization To-Do
 
 Before the 21st:
 
@@ -132,8 +132,7 @@ Before the 21st:
 
 
 ---
-
-📜 License
+ License
 
 This project has no license.
 
